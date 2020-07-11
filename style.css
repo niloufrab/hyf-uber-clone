@@ -1,0 +1,21 @@
+.section {
+  padding-top: 4vw;
+  padding-bottom: 4vw;
+}
+
+section .row .col #link:hover {
+  color: gray;
+}
+
+footer .row .col p:hover {
+  color: gray;
+}
+
+#socialmedia ul {
+  display: inline-flex;
+}
+
+#socialmedia ul li {
+  margin: 5px;
+  background-color: black;
+}
